@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yohansbekele12
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning NexT js
-- 💞️ I’m looking to collaborate on any fFull Stack Project
+- 💞️ I’m looking to collaborate on any MERN Stack Project
 - 📫 How to reach me email yohanse.yohans@gmail.com
 - ⚡ Fun fact: ...
 
