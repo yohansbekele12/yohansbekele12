@@ -1,25 +1,13 @@
 # 👾 YO-H4NS_B3K3L3 [ aka @yohansbekele12 ]  
 
-## 👀 💀 Interests  
-🔹 Web D3v3l0pm3nt 🖥️  
-🔹 P3n3tr4ti0n T3sting 💻⚡  
-🔹 Cyb3r S3curity 🔐  
+🔹 **Int3r3sts:** W3b D3v, P3nt3sting, Cyb3r S3c 💀 | Br34king & Bu1lding Stuƒƒ 💻⚡  
+🔹 **L34rning:** N3xt.js, El3ctr0n, Autom0tiv3 S3c 🚗 | 0wning M4chin3s in CTFs 🎯  
 
-## 🌱 🚀 Currently L3arning  
-⚡ Next.js & El3ctr0n.js 💡  
-⚡ Autom0tiv3 S3curity Ass3ssm3nt 🚗🔍  
-⚡ Fun CTFs & 0wning Machines 🎯  
+🔹 **C0ll4b?** M3RN St4ck, Bug Bounti3s, FUN CTFs 🤝 | H4cking & S3c R3s34rch 🕵️  
+🔹 **📫 C0nt4ct:** [yohanse.yohans@gmail.com](mailto:yohanse.yohans@gmail.com) | R34ch 0ut, N0 F34R! 🚀  
 
-## 💞️ 🤝 Looking to C0llab on  
-🛠️ MERN St4ck Pr0j3cts  
-🕵️ P3nt3sting & Bug Bounti3s  
-🎯 FUN CTF Battl3s  
+⚡ **Fun F4ct:** H4ck3d XP vi4 CMD, n0w c0mput3rs h4t3 m3 😆💀 | But 1 st1ll l0v3 'em!  
 
-## 📫 🔗 How to R3ach M3  
-📧 **Email:** [yohanse.yohans@gmail.com](mailto:yohanse.yohans@gmail.com)  
-
-## ⚡ 🕶️ Fun Fact  
-I f3ll in l0v3 with comput3rs after h4cking **Windows XP via Safe M0de + CMD**. Since then, c0mput3rs hat3 me, but I st1ll l0v3 them and f0ll0w them. 😆💀  
 
 
 
