@@ -1,27 +1,26 @@
-# 👋 Hi, I’m @yohansbekele12  
+# 👾 YO-H4NS_B3K3L3 [ aka @yohansbekele12 ]  
 
-## 👀 Interests  
-- Web Development  
-- Penetration Testing  
-- Cyber Security  
+## 👀 💀 Interests  
+🔹 Web D3v3l0pm3nt 🖥️  
+🔹 P3n3tr4ti0n T3sting 💻⚡  
+🔹 Cyb3r S3curity 🔐  
 
-## 🌱 Currently Learning  
-- Next.js  
-- Electron.js  
-- Automotive Security Assessment  
-- Fun CTFs 😉  
+## 🌱 🚀 Currently L3arning  
+⚡ Next.js & El3ctr0n.js 💡  
+⚡ Autom0tiv3 S3curity Ass3ssm3nt 🚗🔍  
+⚡ Fun CTFs & 0wning Machines 🎯  
 
-## 💞️ Looking to Collaborate On  
-- MERN Stack projects  
-- Pentesting projects  
-- Bug Bounties  
-- FUN CTFs  
+## 💞️ 🤝 Looking to C0llab on  
+🛠️ MERN St4ck Pr0j3cts  
+🕵️ P3nt3sting & Bug Bounti3s  
+🎯 FUN CTF Battl3s  
 
-## 📫 How to Reach Me  
-📧 Email: [yohanse.yohans@gmail.com](mailto:yohanse.yohans@gmail.com)  
+## 📫 🔗 How to R3ach M3  
+📧 **Email:** [yohanse.yohans@gmail.com](mailto:yohanse.yohans@gmail.com)  
 
-## ⚡ Fun Fact  
-I fell in love with computers after hacking **Windows XP using Safe Mode + CMD**. Since then, computers hate me, but I still love them and continue to follow them 😆  
+## ⚡ 🕶️ Fun Fact  
+I f3ll in l0v3 with comput3rs after h4cking **Windows XP via Safe M0de + CMD**. Since then, c0mput3rs hat3 me, but I st1ll l0v3 them and f0ll0w them. 😆💀  
+
 
 
 <!---
